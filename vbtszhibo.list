@@ -1,10 +1,10 @@
 # NAME: zhibo
 # AUTHOR: vbts
 # REPO: https://github.com/winmask/vbts
-# UPDATED: 2025-06-07 09:18:50
+# UPDATED: 2025-06-06 09:18:50
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 20
-# TOTAL: 30
+# DOMAIN-SUFFIX: 28
+# TOTAL: 34
 DOMAIN,mgysals.xavwem.top
 DOMAIN,01lawylahydi.wljzml.top
 DOMAIN,yb.h12345.net
@@ -17,15 +17,19 @@ DOMAIN-SUFFIX,biognax.xyz
 DOMAIN-SUFFIX,zzlsnp.top
 DOMAIN-SUFFIX,xinzhitushu.xyz
 DOMAIN-SUFFIX,tuise.top
-DOMAIN-SUFFIX,vihyvz.top
 DOMAIN-SUFFIX,huangyoulin.top
 DOMAIN-SUFFIX,maipu.icu
 DOMAIN-SUFFIX,rjtawnf.com
 DOMAIN-SUFFIX,biexd.xyz
 DOMAIN-SUFFIX,abrillantlee.top
-DOMAIN-SUFFIX,zzlsnp.top
-DOMAIN-SUFFIX,xinzhitushu.xyz
-DOMAIN-SUFFIX,tuise.top
-DOMAIN-SUFFIX,vihyvz.top
-DOMAIN-SUFFIX,h12345.net
-DOMAIN-SUFFIX,abrillantlee.top
+DOMAIN-SUFFIX,dianshe.top
+DOMAIN-SUFFIX,g74.com
+DOMAIN-SUFFIX,mdhy.top
+DOMAIN-SUFFIX,zwtw53a.com
+DOMAIN-SUFFIX,trustdeveloppment.com
+DOMAIN-SUFFIX,zgod.xyz
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,dianshe.top
+IP-CIDR,36.151.191.60,DIRECT #匹配数据目标IP(直连)
+IP-CIDR,36.150.235.19,DIRECT #匹配数据目标IP(直连)
+IP-CIDR,120.241.29.197,DIRECT #匹配数据目标IP(直连)
